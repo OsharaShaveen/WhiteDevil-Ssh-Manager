@@ -4,7 +4,7 @@ clear
 echo ""
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\033[0;32m-        NGINX INSTALLER FOR OVPN OF SSH PLUS    -\033[0m"
-echo -e "\033[0;32m-               MADE BY PHC_Jayvee               -\033[0m"
+echo -e "\033[0;32m-               MADE BY WhiteDevil               -\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo ""
 systemctl stop apache2
