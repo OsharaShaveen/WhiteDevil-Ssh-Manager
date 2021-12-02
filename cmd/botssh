@@ -8,8 +8,8 @@
 clear
 echo ""
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\033[0;32m-        TRANSLATE BY PHC_MARED0 PHC_Jayvee      -\033[0m"
-echo -e "\033[0;32m-              REQUESTED BY CUPCAKE_13           -\033[0m"
+echo -e "\033[0;32m-        MADE BY WHITE DEVIL      -\033[0m"
+echo -e "\033[0;32m-              SVF 🇱🇰             -\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo ""
 fun_bar() {
@@ -72,7 +72,7 @@ fun_botOnOff() {
         menu
     } || {
         clear
-        echo -e "\033[1;32mSTOPPING BOT SSHPLUS... \033[0m\n"
+        echo -e "\033[1;32mSTOPPING BOT DevilSSH... \033[0m\n"
         fun_bot2() {
             screen -r -S "bot_plus" -X quit
             screen -wipe 1>/dev/null 2>/dev/null
@@ -83,7 +83,7 @@ fun_botOnOff() {
             sleep 1
         }
         fun_bar 'fun_bot2'
-        echo -e "\n\033[1;32m \033[1;31mSSHPLUS BOT STOPPED! \033[0m"
+        echo -e "\n\033[1;32m \033[1;31mDevilSsh BOT STOPPED! \033[0m"
         sleep 2
         menu
     }
