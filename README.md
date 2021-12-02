@@ -1,13 +1,13 @@
 # SSH-Plus-English-Version
 
 
-#Welcome to SSH PLUS ENGLISH VERSION 
+#Welcome to DevilSsh Tool 🇱🇰
 -------------------------------------------------------------------------------
 
 
-###BIG CREDITS To the real maker of SSH PLUS
+###BIG CREDITS To the real maker of SSH PLUS ❤️
 
-#####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
+#####This Is Their Repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
 
 -------------------------------------------------------------------------------
 
@@ -28,17 +28,17 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 ####after successful install run this to translate SSH PLUS
 
 ```
-cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh
+cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/OsharaShaveen/WhiteDevil-Ssh-Manager/main/translate.sh && chmod +x translate.sh && bash translate.sh
 ```
 
 #### and done ssh plus translated
 -------------------------------------------------------------------------------
 # Credits
-> Credits to: **Phc_Mared08**  and **Phc_efstab813** for helping me translate
+> Credits to: **@WhiteDevil**  and **@NuradhaSanka1** **@Pajma_X**  for helping me translate
 >
-> Thank you **Cupcake_13** to requesting this to translate in English version
+> Thank you **Pasindu** to requesting this to translate in English version
 >
-> Group: https://phcorner.net
+> Channel: t.me/SLEHIGROUP Powerd By Sri lanka 🇱🇰
 >
-> **Phc_Jayvee**
+> **WhiteDevil🇱🇰**
 >
