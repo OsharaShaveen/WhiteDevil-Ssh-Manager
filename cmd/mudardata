@@ -1,8 +1,8 @@
 #!/bin/bash
 echo ""
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\033[0;32m-        TRANSLATE BY PHC_MARED0 PHC_Jayvee      -\033[0m"
-echo -e "\033[0;32m-              REQUESTED BY CUPCAKE_13           -\033[0m"
+echo -e "\033[0;32m-        MADE BY WHITE DEVIL      -\033[0m"
+echo -e "\033[0;32m-              SVF                -\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo ""
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%33s%s%-12s\n' "Change expiration date" ; tput sgr0
